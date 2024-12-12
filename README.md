@@ -6,3 +6,5 @@
 - SQLite
 - Pest
 
+## Add-on Packages
+- MaryUI
